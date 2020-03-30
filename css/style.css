@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 /* Base Styles -------------------- */
 
 body {
@@ -53,7 +57,6 @@ a:active {
   background-color: #ffa949;
   padding-top: 170px;
   height: 850px;
-  box-sizing: border-box;
 }
 
 .title {
@@ -106,7 +109,6 @@ a:active {
 .primary-content, 
 .secondary-content {
   width: 960px;
-  box-sizing: border-box;
   padding-left: 50px;
   padding-right: 50px;
   margin: auto;
