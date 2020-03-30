@@ -1,8 +1,8 @@
+/* Base Styles -------------------- */
+
 * {
   box-sizing: border-box;
 }
-
-/* Base Styles -------------------- */
 
 body {
   color: #878787;
@@ -30,6 +30,11 @@ h3 {
   color: #48525c;
   line-height: 1.2;
   margin-bottom: 1.7em; /* 34px */
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 20px;
 }
 
 /* Pseudo-classes ------------------ */
@@ -112,7 +117,7 @@ a:active {
   padding-left: 50px;
   padding-right: 50px;
   margin: auto;
-  max-width: 900px;
+  max-width: 960px;
 }
 
 .wildlife {
