@@ -23,7 +23,7 @@ h3 {
 /* Pseudo-classes ------------------ */
 
 a:link {
-  color: orange;
+  color: #ffa949;
 }
 
 a:visited {
@@ -43,13 +43,13 @@ a:active {
 #main-footer {
   padding-top: 60px;
   padding-bottom: 60px;
-  border-bottom: solid 10px orange;
+  border-bottom: solid 10px #ffa949;
 }
 
 /* Class Selectors ----------------- */
 
 .main-header {
-  background-color: orange;
+  background-color: #ffa949;
 }
 
 .title {
