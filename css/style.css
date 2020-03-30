@@ -47,3 +47,7 @@ a:link {
 a:visited {
     color: lightblue;
 }
+
+a:hover {
+    color: forestgreen;
+}
