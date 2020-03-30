@@ -2,8 +2,14 @@ body {
     color: #878787;
     margin: 0;
 }
+
 .main-header {
     background-color: orange;
+}
+
+.title {
+    color: white;
+    font-size: 26px;
 }
 
 h1 {
@@ -32,4 +38,12 @@ h3 {
     padding-top: 60px;
     padding-bottom: 60px;
     border-bottom: 10px solid orange;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: lightblue;
 }
