@@ -108,10 +108,11 @@ a:active {
 
 .primary-content, 
 .secondary-content {
-  width: 960px;
+  width: 75%;
   padding-left: 50px;
   padding-right: 50px;
   margin: auto;
+  max-width: 900px;
 }
 
 .wildlife {
