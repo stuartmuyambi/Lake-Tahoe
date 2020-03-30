@@ -53,6 +53,7 @@ a:active {
   background-color: #ffa949;
   padding-top: 170px;
   height: 850px;
+  box-sizing: border-box;
 }
 
 .title {
