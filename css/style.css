@@ -104,7 +104,8 @@ a:active {
 
 .primary-content, 
 .secondary-content {
-  width: 860px;
+  width: 960px;
+  box-sizing: border-box;
   padding-left: 50px;
   padding-right: 50px;
   margin: auto;
